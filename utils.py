@@ -8,7 +8,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from operator import itemgetter
 
 # Configuration
-PDF_PATH = r"C:\Users\PC\Desktop\utils\files\Muhammad Abdullah_CV.pdf"
+PDF_PATH = r"E:\my ai apps\FastAPI_Qdrant_rag\files\Muhammad Abdullah_CV.pdf"
 OPENAI_API_KEY =st.secrets["OPENAI_API_KEY"] 
 QDRANT_URL = st.secrets["QDRANT_URL"]
 QDRANT_KEY = st.secrets["QDRANT_KEY"]
