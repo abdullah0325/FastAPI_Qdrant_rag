@@ -1,0 +1,12 @@
+streamlit
+pydantic
+fastapi
+uvicorn
+requests
+openai
+qdrant-client
+langchain
+langchain-community
+langchain-qdrant
+langchain-openai
+sentence-transformers
